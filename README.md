@@ -16,3 +16,25 @@
 - 👤 [Explore the creator's projects](https://go.ondev.store/aarga).
 - 🌍 [Create with OMGithub](https://go.ondev.store/).
 <!-- omgithub:readme:end -->
+
+## RED BALL — Pixel Adventure
+
+Game platformer 2D satu level yang berjalan langsung di browser menggunakan HTML5 Canvas, tanpa dependensi atau proses build.
+
+### Menjalankan
+
+Buka `index.html` di browser, atau jalankan server lokal:
+
+```bash
+python3 -m http.server 3002
+```
+
+Lalu buka `http://localhost:3002`.
+
+### Kontrol
+
+- **← / →** atau **A / D** untuk bergerak
+- **↑ / Spasi** atau **W** untuk melompat
+- Di layar sentuh, gunakan tombol kiri, kanan, dan lompat
+
+Kumpulkan semua 8 cincin, hindari duri, dan capai pintu keluar. Kamu memiliki 3 nyawa.
